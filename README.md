@@ -8,5 +8,5 @@ Most of my professional work is proprietary. This profile highlights selected in
 
 ## Selected projects
 
-* **Glise** — independent lightweight 3D modelling application developed from scratch, including viewport interaction, component editing, subdivision-style modelling, multi-viewport UI, Python-exposed modelling APIs, and procedural geometry experimentation.
-* **NClay** — experimental digital sculpting prototype focused on clay-like organic modelling, interactive deformation, brush-like editing, and progressive sculpting workflows.
+* [Glise](https://github.com/cesarigermano/glise) — independent lightweight 3D modelling application developed from scratch, including viewport interaction, component editing, subdivision-style modelling, multi-viewport UI, Python-exposed modelling APIs, and procedural geometry experimentation.
+* [NClay](https://github.com/cesarigermano/nclay) — experimental digital sculpting prototype focused on clay-like organic modelling, interactive deformation, brush-like editing, and progressive sculpting workflows.
